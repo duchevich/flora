@@ -1,0 +1,16 @@
+{
+	"navbarNav": [
+		{
+			"navbarNavName": "орполпорпо",
+			"navbarNavLink": "#"
+		},
+		{
+			"navbarNavName": "link2",
+			"navbarNavLink": "#"
+		},
+		{
+			"navbarNavName": "link3",
+			"navbarNavLink": "#"
+		}
+	]
+}
