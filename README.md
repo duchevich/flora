@@ -1,5 +1,7 @@
-# BOOTSTRAP BREAKPOINTS
-@media (max-width: 1200px) {}
-@media (max-width: 992px) {}
-@media (max-width: 768px) {}
-@media (max-width: 460px) {}
+Лендинг магазина цветов
+
+Верстка с макета
+
+html, css
+bootstrap, jQuery
+node.js, gulp, less 
